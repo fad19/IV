@@ -1,0 +1,7 @@
+E:\Crack_Interview\StringsOneEdit\OneEdit\OneEdit\bin\Debug\OneEdit.exe.config
+E:\Crack_Interview\StringsOneEdit\OneEdit\OneEdit\bin\Debug\OneEdit.exe
+E:\Crack_Interview\StringsOneEdit\OneEdit\OneEdit\bin\Debug\OneEdit.pdb
+E:\Crack_Interview\StringsOneEdit\OneEdit\OneEdit\obj\Debug\OneEdit.csprojResolveAssemblyReference.cache
+E:\Crack_Interview\StringsOneEdit\OneEdit\OneEdit\obj\Debug\OneEdit.csproj.CoreCompileInputs.cache
+E:\Crack_Interview\StringsOneEdit\OneEdit\OneEdit\obj\Debug\OneEdit.exe
+E:\Crack_Interview\StringsOneEdit\OneEdit\OneEdit\obj\Debug\OneEdit.pdb

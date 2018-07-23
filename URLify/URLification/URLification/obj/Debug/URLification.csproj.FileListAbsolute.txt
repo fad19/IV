@@ -1,0 +1,7 @@
+E:\Crack_Interview\URLify\URLification\URLification\bin\Debug\URLification.exe.config
+E:\Crack_Interview\URLify\URLification\URLification\bin\Debug\URLification.exe
+E:\Crack_Interview\URLify\URLification\URLification\bin\Debug\URLification.pdb
+E:\Crack_Interview\URLify\URLification\URLification\obj\Debug\URLification.csprojResolveAssemblyReference.cache
+E:\Crack_Interview\URLify\URLification\URLification\obj\Debug\URLification.csproj.CoreCompileInputs.cache
+E:\Crack_Interview\URLify\URLification\URLification\obj\Debug\URLification.exe
+E:\Crack_Interview\URLify\URLification\URLification\obj\Debug\URLification.pdb

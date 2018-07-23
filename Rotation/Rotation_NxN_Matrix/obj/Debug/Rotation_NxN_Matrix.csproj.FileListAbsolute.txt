@@ -1,0 +1,7 @@
+E:\Crack_Interview\Rotation\Rotation_NxN_Matrix\obj\Debug\Rotation_NxN_Matrix.csprojResolveAssemblyReference.cache
+E:\Crack_Interview\Rotation\Rotation_NxN_Matrix\obj\Debug\Rotation_NxN_Matrix.csproj.CoreCompileInputs.cache
+E:\Crack_Interview\Rotation\Rotation_NxN_Matrix\bin\Debug\Rotation_NxN_Matrix.exe.config
+E:\Crack_Interview\Rotation\Rotation_NxN_Matrix\bin\Debug\Rotation_NxN_Matrix.exe
+E:\Crack_Interview\Rotation\Rotation_NxN_Matrix\bin\Debug\Rotation_NxN_Matrix.pdb
+E:\Crack_Interview\Rotation\Rotation_NxN_Matrix\obj\Debug\Rotation_NxN_Matrix.exe
+E:\Crack_Interview\Rotation\Rotation_NxN_Matrix\obj\Debug\Rotation_NxN_Matrix.pdb

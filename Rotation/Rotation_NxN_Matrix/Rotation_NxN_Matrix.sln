@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotation_NxN_Matrix", "Rotation_NxN_Matrix.csproj", "{5F4C145A-1225-4C4B-B2EF-DE409D4835EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F4C145A-1225-4C4B-B2EF-DE409D4835EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4C145A-1225-4C4B-B2EF-DE409D4835EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4C145A-1225-4C4B-B2EF-DE409D4835EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4C145A-1225-4C4B-B2EF-DE409D4835EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8405EECE-E72A-4C95-A96E-E968856007DC}
+	EndGlobalSection
+EndGlobal

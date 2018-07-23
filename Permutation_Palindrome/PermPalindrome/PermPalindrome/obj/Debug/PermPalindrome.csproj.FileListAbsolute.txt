@@ -1,0 +1,7 @@
+E:\Crack_Interview\Permutation_Palindrome\PermPalindrome\PermPalindrome\bin\Debug\PermPalindrome.exe.config
+E:\Crack_Interview\Permutation_Palindrome\PermPalindrome\PermPalindrome\bin\Debug\PermPalindrome.exe
+E:\Crack_Interview\Permutation_Palindrome\PermPalindrome\PermPalindrome\bin\Debug\PermPalindrome.pdb
+E:\Crack_Interview\Permutation_Palindrome\PermPalindrome\PermPalindrome\obj\Debug\PermPalindrome.csprojResolveAssemblyReference.cache
+E:\Crack_Interview\Permutation_Palindrome\PermPalindrome\PermPalindrome\obj\Debug\PermPalindrome.csproj.CoreCompileInputs.cache
+E:\Crack_Interview\Permutation_Palindrome\PermPalindrome\PermPalindrome\obj\Debug\PermPalindrome.exe
+E:\Crack_Interview\Permutation_Palindrome\PermPalindrome\PermPalindrome\obj\Debug\PermPalindrome.pdb

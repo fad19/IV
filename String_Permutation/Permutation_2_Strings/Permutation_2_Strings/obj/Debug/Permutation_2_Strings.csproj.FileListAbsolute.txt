@@ -1,0 +1,7 @@
+E:\Crack_Interview\String_Permutation\Permutation_2_Strings\Permutation_2_Strings\obj\Debug\Permutation_2_Strings.csprojResolveAssemblyReference.cache
+E:\Crack_Interview\String_Permutation\Permutation_2_Strings\Permutation_2_Strings\obj\Debug\Permutation_2_Strings.csproj.CoreCompileInputs.cache
+E:\Crack_Interview\String_Permutation\Permutation_2_Strings\Permutation_2_Strings\bin\Debug\Permutation_2_Strings.exe.config
+E:\Crack_Interview\String_Permutation\Permutation_2_Strings\Permutation_2_Strings\bin\Debug\Permutation_2_Strings.exe
+E:\Crack_Interview\String_Permutation\Permutation_2_Strings\Permutation_2_Strings\bin\Debug\Permutation_2_Strings.pdb
+E:\Crack_Interview\String_Permutation\Permutation_2_Strings\Permutation_2_Strings\obj\Debug\Permutation_2_Strings.exe
+E:\Crack_Interview\String_Permutation\Permutation_2_Strings\Permutation_2_Strings\obj\Debug\Permutation_2_Strings.pdb

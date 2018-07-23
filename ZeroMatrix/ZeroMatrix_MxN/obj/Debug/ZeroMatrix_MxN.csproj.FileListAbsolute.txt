@@ -1,0 +1,7 @@
+E:\Crack_Interview\ZeroMatrix\ZeroMatrix_MxN\bin\Debug\ZeroMatrix_MxN.exe.config
+E:\Crack_Interview\ZeroMatrix\ZeroMatrix_MxN\bin\Debug\ZeroMatrix_MxN.exe
+E:\Crack_Interview\ZeroMatrix\ZeroMatrix_MxN\bin\Debug\ZeroMatrix_MxN.pdb
+E:\Crack_Interview\ZeroMatrix\ZeroMatrix_MxN\obj\Debug\ZeroMatrix_MxN.csprojResolveAssemblyReference.cache
+E:\Crack_Interview\ZeroMatrix\ZeroMatrix_MxN\obj\Debug\ZeroMatrix_MxN.csproj.CoreCompileInputs.cache
+E:\Crack_Interview\ZeroMatrix\ZeroMatrix_MxN\obj\Debug\ZeroMatrix_MxN.exe
+E:\Crack_Interview\ZeroMatrix\ZeroMatrix_MxN\obj\Debug\ZeroMatrix_MxN.pdb
